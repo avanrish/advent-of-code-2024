@@ -15,3 +15,4 @@ Welcome to my repository for **Advent of Code 2024**! This repo contains my dail
 | Day | Challenge                                                 | File with solution         |
 |-----|-----------------------------------------------------------|----------------------------|
 | 1   | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Solution](01/solution.go) |
+| 2   | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)  | [Solution](02/solution.go) |
