@@ -28,6 +28,7 @@ func Solution() {
 		fmt.Println(err)
 		return
 	}
+	defer file.Close()
 
 	leftOccurences := map[int]int{}
 	rightOccurences := map[int]int{}
